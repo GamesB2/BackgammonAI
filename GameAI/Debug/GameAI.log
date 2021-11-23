@@ -1,0 +1,42 @@
+﻿  BackgammonPlayerAI.cpp
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonConstants.h(27,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(264,20): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(307,20): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(355,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(355,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(426,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(426,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(516,20): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(539,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(539,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(543,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(543,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(572,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(572,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(583,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(583,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(595,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(595,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(606,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(606,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(614,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(614,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(618,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(618,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(629,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(629,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(641,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(641,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(653,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(653,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(663,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(663,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(836,29): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(852,30): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(866,29): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(883,30): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(901,31): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(919,32): warning C4018: '<': signed/unsigned mismatch
+D:\Jimmy\Programs\Personal\Five_AI_Programs\GameAI\Backgammon\BackgammonPlayerAI.cpp(672): warning C4715: 'BackgammonPlayerAI::Probe': not all control paths return a value
+  GameAI.vcxproj -> D:\Jimmy\Programs\Personal\Five_AI_Programs\Debug\GameAI.exe
